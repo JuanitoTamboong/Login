@@ -2,7 +2,7 @@
         {
            var username = document.getElementById('username').value;
            var password = document.getElementById('password').value;
-           if(username == "IOpips" && password == "Block1"){
+           if(username == "IQpips" && password == "Block1"){
            alert("Login Succesfully");
            window.location = "https://iq-pips.netlify.app/";
                return true;
